@@ -7,7 +7,7 @@
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🌐 Website: **www.sanjayn.me**  
 📧 Email: **sanjayn29.aiml@gmail.com**  
@@ -19,7 +19,6 @@
 - GitHub: https://github.com/sanjayn29  
 - LeetCode: https://leetcode.com/u/sanjayn29  
 
----
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
