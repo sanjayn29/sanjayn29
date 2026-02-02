@@ -1,3 +1,5 @@
+
+You said:
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <p align="left">
@@ -8,25 +10,14 @@
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
-  <!-- Left Side: Contact & Connect -->
-  <div align="left" style="width: 50%;">
-    <h2>📬 Contact & Connect</h2>
-    <p>
-      🔗 <a href="https://github.com/sanjayn29">GitHub</a><br>
-      💼 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a><br>
-      📧 Email: sanjay@example.com<br>
-      🌐 Portfolio: your-portfolio-link
-    </p>
-  </div>
+<br>
 
-  <!-- Right Side: Animation -->
-  <div align="right" style="width: 50%;">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
-  </div>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
 </div>
+
+<br>
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
