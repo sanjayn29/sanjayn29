@@ -8,6 +8,42 @@
 <br><br>
 
 <br><br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sanjayraj-k&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" alt="Sanjay k" style="padding-right:20px;" />
+</p>
+
+
+---
+
+
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
+<h3 align="left">Frontend</h3>
+<ul>
+  <li><span>Technology : </span> <span>HTML, CSS, JS</span></li>
+  <li><span>Framework  : </span> <span>React</span></li>
+  <li><span>UI Library :</span> <span> Bootstrap</span></li>
+</ul>
+
+<h3 align="left">Backend</h3>
+<ul>
+  <li><span>Runtime   : </span> <span>Node.js, Flask</span></li>
+  <li><span>Framework : </span> <span>Express</span></li>
+  <li><span>Database  : </span> <span>MongoDB, SQL</span></li>
+</ul>
+
+<h3 align="left">Tools</h3>
+<ul>
+  <li><span>Version Control : </span> <span>GitHub</span></li>
+  <li><span>IDE             : </span> <span>VS Code</span></li>
+</ul>
+<br />
  
 # Achievements
 
