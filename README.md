@@ -8,35 +8,25 @@
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
-<br>
+  <!-- Left Side: Contact & Connect -->
+  <div align="left" style="width: 50%;">
+    <h2>📬 Contact & Connect</h2>
+    <p>
+      🔗 <a href="https://github.com/sanjayn29">GitHub</a><br>
+      💼 <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a><br>
+      📧 Email: sanjay@example.com<br>
+      🌐 Portfolio: your-portfolio-link
+    </p>
+  </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+  <!-- Right Side: Animation -->
+  <div align="right" style="width: 50%;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
+  </div>
+
 </div>
-
-<br>
-
----
-
-### 📬 Contact Information
-
-<p align="center">
-🌐 <b>Website:</b> <a href="https://www.sanjayn.me">www.sanjayn.me</a> <br><br>
-📧 <b>Email:</b> <a href="mailto:sanjayn29.aiml@gmail.com">sanjayn29.aiml@gmail.com</a> <br><br>
-📞 <b>Mobile:</b> +91 90805 81688 <br><br>
-📍 <b>Location:</b> Vellore, Tamil Nadu, India  
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/sanjayn29">🌐 LinkedIn</a> &nbsp;|&nbsp;
-<a href="https://github.com/sanjayn29">🐙 GitHub</a> &nbsp;|&nbsp;
-<a href="https://leetcode.com/u/sanjayn29">🧠 LeetCode</a>
-</p>   one side image another side contact and connect
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
