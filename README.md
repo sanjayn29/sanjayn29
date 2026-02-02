@@ -8,34 +8,27 @@
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
----
+<br>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-🌐 **Website:** www.sanjayn.me  
-📧 **Email:** sanjayn29.aiml@gmail.com  
-📞 **Mobile:** +91 90805 81688  
-📍 **Location:** Vellore, Tamil Nadu, India  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
+</div>
 
 <br>
 
-**Connect with me:**  
-- 🔗 LinkedIn: https://linkedin.com/in/sanjayn29  
-- 🐙 GitHub: https://github.com/sanjayn29  
-- 🧠 LeetCode: https://leetcode.com/u/sanjayn29  
+<p align="center">
+🌐 <b>Website:</b> www.sanjayn.me <br>
+📧 <b>Email:</b> sanjayn29.aiml@gmail.com <br>
+📞 <b>Mobile:</b> +91 90805 81688 <br>
+📍 <b>Location:</b> Vellore, Tamil Nadu, India
+</p>
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+<b>Connect with me:</b><br>
+<a href="https://linkedin.com/in/sanjayn29">LinkedIn</a> •
+<a href="https://github.com/sanjayn29">GitHub</a> •
+<a href="https://leetcode.com/u/sanjayn29">LeetCode</a>
+</p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
