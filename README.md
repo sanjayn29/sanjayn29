@@ -10,25 +10,22 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
-</div>
+<img align="left" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<br>
+<p>
+🌐 <b>Website:</b> www.sanjayn.me <br><br>
+📧 <b>Email:</b> sanjayn29.aiml@gmail.com <br><br>
+📞 <b>Mobile:</b> +91 90805 81688 <br><br>
+📍 <b>Location:</b> Vellore, Tamil Nadu, India <br><br>
 
-<p align="center">
-🌐 <b>Website:</b> www.sanjayn.me <br>
-📧 <b>Email:</b> sanjayn29.aiml@gmail.com <br>
-📞 <b>Mobile:</b> +91 90805 81688 <br>
-📍 <b>Location:</b> Vellore, Tamil Nadu, India
-</p>
-
-<p align="center">
 <b>Connect with me:</b><br>
-<a href="https://linkedin.com/in/sanjayn29">LinkedIn</a> •
-<a href="https://github.com/sanjayn29">GitHub</a> •
-<a href="https://leetcode.com/u/sanjayn29">LeetCode</a>
+🔗 <a href="https://linkedin.com/in/sanjayn29">LinkedIn</a><br>
+🐙 <a href="https://github.com/sanjayn29">GitHub</a><br>
+🧠 <a href="https://leetcode.com/u/sanjayn29">LeetCode</a>
 </p>
+
+<br clear="left"/>
+
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
