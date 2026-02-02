@@ -39,6 +39,88 @@
 | 🥉 3rd | IEEE Paper Presentation   | Won 3rd place at paper presentation organized by the IEEE student branch at KEC.                   | ![Icon](https://img.icons8.com/?size=50&id=lMwvkoCmvpSJ&format=png&color=000000) |
 | 📄     | Research Paper Published  | Published "Leveraging Deep Learning For Comprehensive Plant Disease Classification" in IEEE Xplore. | ![Icon](https://img.icons8.com/?size=50&id=8MqrQIywEiYc&format=png&color=000000) |
 
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Sanjayraj-k">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjayraj-k&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+  <a href="https://github.com/Sanjayraj-k">
+    <img align="center" src="https://streak-stats.demolab.com?user=Sanjayraj-k&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+  </a>
+</p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjayraj-k&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+<h3 align="center">Passionate Curiosity-Driven Learner</h3>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sanjayraj-k&theme=onedark&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+  </a>
+</p>
+
+
+
+
+
+
+
+<!--Contact Section--> 
+
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <a href="mailto:ksanjayias@gmail.com" target="_blank">
+    <img src="./gmail.png" width="50" height="50" alt="ksanjayias@gmail.com" />
+  </a>
+  <a href="https://www.instagram.com/____._sanjay_._____/" target="_blank">
+    <img src="./instagram (1).png" width="50" height="50" alt="sanjay" />
+  </a>
+  <a href="https://github.com/Sanjayraj-k" target="_blank">
+    <img src="./github (1).png" width="50" height="50" alt="Sanjay k" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjayraj-k/" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://leetcode.com/u/Sanjayrajk/" target="_blank">
+    <img src="./leetcode.png" width="50" height="50" alt="Sanjay k" />
+  </a>
+  
+  </a>
+</div>
+
+
+
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 
 
