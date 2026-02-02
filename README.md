@@ -10,7 +10,14 @@
 
 <br>
 
-<div align="center">
+## 👨‍💻 About Me  
+
+I am passionate about solving real-world problems through practical software and intelligent solutions, always learning and applying new ideas to make a meaningful impact.
+
+Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Kongu Engineering College, Erode**.  
+Let’s connect and collaborate!
+
+<div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
 </div>
 
