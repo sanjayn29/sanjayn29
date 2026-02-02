@@ -1,18 +1,29 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
+</p>
 <h1 align="center">Hello 👋, I'm SANJAY N</h1>
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## 🌌 WELCOME TO MY UNIVERSE  
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
-</p>
+### **Sanjay N**  
+**Freelancer | AI/ML Engineer & Full Stack Developer**
+
+🌐 Website: **www.sanjayn.me**  
+📧 Email: **sanjayn29.aiml@gmail.com**  
+📞 Mobile: **+91 90805 81688**  
+📍 Location: **Vellore, Tamil Nadu, India**
+
+**Connect with me:**  
+- LinkedIn: https://linkedin.com/in/sanjayn29  
+- GitHub: https://github.com/sanjayn29  
+- LeetCode: https://leetcode.com/u/sanjayn29  
 
 ---
-
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
@@ -40,23 +51,6 @@
 </picture>
 
 <br><br><br><br>
-
-## 🌌 WELCOME TO MY UNIVERSE  
-
-### **Sanjay N**  
-**Freelancer | AI/ML Engineer & Full Stack Developer**
-
-🌐 Website: **www.sanjayn.me**  
-📧 Email: **sanjayn29.aiml@gmail.com**  
-📞 Mobile: **+91 90805 81688**  
-📍 Location: **Vellore, Tamil Nadu, India**
-
-**Connect with me:**  
-- LinkedIn: https://linkedin.com/in/sanjayn29  
-- GitHub: https://github.com/sanjayn29  
-- LeetCode: https://leetcode.com/u/sanjayn29  
-
----
 
 ## 🚀 Tech Stack Snapshot  
 
