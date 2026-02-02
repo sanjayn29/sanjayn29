@@ -1,23 +1,41 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
 </p>
+
 <h1 align="center">🌌 WELCOME TO MY UNIVERSE, I'm SANJAY N</h1>
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
-<br>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
-🌐 Website: **www.sanjayn.me**  
-📧 Email: **sanjayn29.aiml@gmail.com**  
-📞 Mobile: **+91 90805 81688**  
-📍 Location: **Vellore, Tamil Nadu, India**
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🌐 **Website:** www.sanjayn.me  
+📧 **Email:** sanjayn29.aiml@gmail.com  
+📞 **Mobile:** +91 90805 81688  
+📍 **Location:** Vellore, Tamil Nadu, India  
+
+<br>
 
 **Connect with me:**  
-- LinkedIn: https://linkedin.com/in/sanjayn29  
-- GitHub: https://github.com/sanjayn29  
-- LeetCode: https://leetcode.com/u/sanjayn29  
+- 🔗 LinkedIn: https://linkedin.com/in/sanjayn29  
+- 🐙 GitHub: https://github.com/sanjayn29  
+- 🧠 LeetCode: https://leetcode.com/u/sanjayn29  
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+
+</td>
+</tr>
+</table>
+
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
