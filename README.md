@@ -8,36 +8,43 @@
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
-<br>
+---
 
 ## 👨‍💻 About Me  
 
-I am passionate about solving real-world problems through practical software and intelligent solutions, always learning and applying new ideas to make a meaningful impact.
+✨ I am passionate about solving real-world problems through practical software and intelligent solutions, always learning and applying new ideas to make a meaningful impact.
 
-Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Kongu Engineering College, Erode**.  
-Let’s connect and collaborate!
+🎓 Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Kongu Engineering College, Erode**.  
+🤝 Let’s connect and collaborate!
 
-<div align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" />
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
 </div>
 
 <br>
 
-<p align="center">
-🌐 <b>Website:</b> www.sanjayn.me <br>
-📧 <b>Email:</b> sanjayn29.aiml@gmail.com <br>
-📞 <b>Mobile:</b> +91 90805 81688 <br>
-📍 <b>Location:</b> Vellore, Tamil Nadu, India
-</p>
+---
+
+### 📬 Contact Information
 
 <p align="center">
-<b>Connect with me:</b><br>
-<a href="https://linkedin.com/in/sanjayn29">LinkedIn</a> •
-<a href="https://github.com/sanjayn29">GitHub</a> •
-<a href="https://leetcode.com/u/sanjayn29">LeetCode</a>
+🌐 <b>Website:</b> <a href="https://www.sanjayn.me">www.sanjayn.me</a> <br><br>
+📧 <b>Email:</b> <a href="mailto:sanjayn29.aiml@gmail.com">sanjayn29.aiml@gmail.com</a> <br><br>
+📞 <b>Mobile:</b> +91 90805 81688 <br><br>
+📍 <b>Location:</b> Vellore, Tamil Nadu, India  
 </p>
 
+---
 
+### 🔗 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sanjayn29">🌐 LinkedIn</a> &nbsp;|&nbsp;
+<a href="https://github.com/sanjayn29">🐙 GitHub</a> &nbsp;|&nbsp;
+<a href="https://leetcode.com/u/sanjayn29">🧠 LeetCode</a>
+</p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
