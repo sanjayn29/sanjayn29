@@ -4,39 +4,39 @@
   <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
 </p>
 
-<!-- Right side: Contact Information -->
-<div style="flex: 1;">
-  <h1 align="center">🌌 WELCOME TO MY UNIVERSE</h1>
-  <h3 align="center">I'm SANJAY N</h3>
-  <h4 align="center">Freelancer | AI/ML Engineer & Full Stack Developer</h4>
-  
-  <br>
-  
-  ### 📬 Contact Information
-  
-  <p align="center">
-    🌐 <b>Website:</b> <a href="https://www.sanjayn.me">www.sanjayn.me</a> <br><br>
-    📧 <b>Email:</b> <a href="mailto:sanjayn29.aiml@gmail.com">sanjayn29.aiml@gmail.com</a> <br><br>
-    📞 <b>Mobile:</b> +91 90805 81688 <br><br>
-    📍 <b>Location:</b> Vellore, Tamil Nadu, India  
-  </p>
-  
-  <br>
-  
-  ### 🔗 Connect With Me
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/sanjayn29" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a> &nbsp;
-    <a href="https://github.com/sanjayn29" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a> &nbsp;
-    <a href="https://leetcode.com/u/sanjayn29" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-    </a>
-  </p>
+<h1 align="center">🌌 WELCOME TO MY UNIVERSE, I'm SANJAY N</h1>
+<h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
+<h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
+
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
 </div>
+
+<br>
+
+---
+
+### 📬 Contact Information
+
+<p align="center">
+🌐 <b>Website:</b> <a href="https://www.sanjayn.me">www.sanjayn.me</a> <br><br>
+📧 <b>Email:</b> <a href="mailto:sanjayn29.aiml@gmail.com">sanjayn29.aiml@gmail.com</a> <br><br>
+📞 <b>Mobile:</b> +91 90805 81688 <br><br>
+📍 <b>Location:</b> Vellore, Tamil Nadu, India  
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/sanjayn29">🌐 LinkedIn</a> &nbsp;|&nbsp;
+<a href="https://github.com/sanjayn29">🐙 GitHub</a> &nbsp;|&nbsp;
+<a href="https://leetcode.com/u/sanjayn29">🧠 LeetCode</a>
+</p>   one side image another side contact and connect
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
