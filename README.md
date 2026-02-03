@@ -7,7 +7,6 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
-<br>
 
 <a href="https://www.sanjayn.me"><h3>Portfolio : https://www.sanjayn.me </h3>
 
@@ -21,7 +20,6 @@
 
 - 📄 Know about my Resume [Resume Link](https://github.com/sanjayn29/sanjayn29/blob/main/Sanjay%20N.pdf)
   
-<br>
 <br>
 
 <h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
@@ -59,7 +57,6 @@ Firebase, Supabase</span></li>
 </ul>
 
 <br>
-<br>
 
 <h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Exᴘᴇʀɪᴇɴᴄᴇ</h2>
 <div align="center">
@@ -90,8 +87,6 @@ Firebase, Supabase</span></li>
   </tr>
 </table>
 </div>
-
-<br>
 
 <h2 align="center">🏆 Kᴇʏ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
 <table align="center">
@@ -151,8 +146,6 @@ Firebase, Supabase</span></li>
   </tr>
 </table>
 
-<br>
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <p align="center">
   <img 
@@ -161,12 +154,8 @@ Firebase, Supabase</span></li>
   />
 </p>
 
-<br> 
-
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
 <table align="center"> <tr> <td width="50%" align="center"> <h2>💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h2> <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap" /> </td> <td width="50%" align="center"> <h2>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2> <img src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl" /> </td> </tr> </table>
-
-<br>
 
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
 <p align="center">
