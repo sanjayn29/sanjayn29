@@ -168,32 +168,27 @@ Firebase, Supabase</span></li>
 
 <br>
 
-<!--Contact Section--> 
-
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
-
-  <p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
 </p>
+<p align="center">
   <a href="mailto:sanjayn29.aiml@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="sanjayn29.aiml@gmail.com" />
+    <img src="./gmail.png" width="50" height="50" alt="Email" />
   </a>
   <a href="https://www.instagram.com/_sanjay_n_/" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="sanjay" />
+    <img src="./instagram.png" width="50" height="50" alt="Instagram" />
   </a>
   <a href="https://github.com/sanjayn29" target="_blank">
-    <img src="./github.png" width="50" height="50" alt="Sanjay k" />
+    <img src="./github.png" width="50" height="50" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/sanjayn29" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/sanjayn29" target="_blank">
-    <img src="./leetcode.png" width="50" height="50" alt="Sanjay k" />
+    <img src="./leetcode.png" width="50" height="50" alt="LeetCode" />
   </a>
-  
-  </a>
-</div>
+</p>
 
 <br/>
 
