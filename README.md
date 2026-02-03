@@ -164,8 +164,8 @@ Firebase, Supabase</span></li>
 <br> 
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
-<h3 align="center">💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h3>
-<h3 align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h3>
+<h3 align="left">💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h3>
+<h3 align="right">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h3>
 <table align="center">
   <tr>
     <td width="50%" align="center">
