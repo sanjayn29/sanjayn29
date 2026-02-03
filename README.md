@@ -163,19 +163,27 @@ Firebase, Supabase</span></li>
 
 <br> 
 
+<h2 align="center">📊 Sᴛᴀᴛs</h2>
+<h3 align="center">💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h3>
+<h3 align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h3>
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h2>💻 LeetCode Stats</h2>
-      <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap" />
+      <img 
+        src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap" 
+        alt="LeetCode Stats"
+      />
     </td>
     <td width="50%" align="center">
-      <h2>📊 GitHub Stats</h2>
-      <img src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl" />
+      <img 
+        src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl" 
+        alt="GitHub Stats"
+      />
     </td>
   </tr>
 </table>
 
+<br>
 
 <!--Contact Section--> 
 
