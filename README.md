@@ -21,6 +21,7 @@
 - 📄 Know about my Resume [Resume Link](https://github.com/sanjayn29/sanjayn29/blob/main/Sanjay%20N.pdf)
   
 <br>
+<br>
 
 <h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 <picture>
@@ -56,6 +57,7 @@ Firebase, Supabase</span></li>
   <li><span>Postman, Docker, PowerBi, Git, Figma, Jupyter</span></li>
 </ul>
 
+<br>
 <br>
 
 <h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Exᴘᴇʀɪᴇɴᴄᴇ</h2>
