@@ -87,15 +87,18 @@ _Discover my standout accomplishments in hackathons, coding competitions, and in
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
 </p>
----
-
-<h2 align="center">💻 LeetCode Stats</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap">
-</p> 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<img src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl"/>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h2>💻 LeetCode Stats</h2>
+      <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap" />
+    </td>
+    <td width="50%" align="center">
+      <h2>📊 GitHub Stats</h2>
+      <img src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl" />
+    </td>
+  </tr>
+</table>
 
 
 <!--Contact Section--> 
