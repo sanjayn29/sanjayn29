@@ -41,10 +41,14 @@ CSS, TailwindCSS</span></li>
 Firebase, Supabase</span></li>
 </ul>
 
+<h3 align="left">Frameworks</h3>
+<ul>
+  <li><span>Pandas, NumPy, Keras, OpenCV, Tf, PyTorch</span></li>
+</ul>
+
 <h3 align="left">Tools</h3>
 <ul>
-  <li><span>Postman, Docker, Git &
-Github, Jupyter</span></li>
+  <li><span>Postman, Docker, PowerBi, Git, Figma, Jupyter</span></li>
 </ul>
 <br />
 
@@ -76,64 +80,6 @@ Github, Jupyter</span></li>
 
 <br><br><br><br>
 
-## 🚀 Tech Stack Snapshot  
-
-React.js · Git & GitHub · PostgreSQL · Python · Java · Power BI · Tailwind CSS · JavaScript · ML & DL · Firebase  
-
----
-
-## 👨‍💻 About Me  
-
-I am passionate about solving real-world problems through practical software and intelligent solutions, always learning and applying new ideas to make a meaningful impact.
-
-Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Kongu Engineering College, Erode**.  
-Let’s connect and collaborate!
-
----
-
-## 🛠 Skills & Technologies  
-
-### **Languages**
-- Java  
-- Python  
-- C  
-- SQL  
-- HTML  
-- CSS  
-- JavaScript  
-
-### **Frontend**
-- React.js  
-- Tailwind CSS  
-
-### **Backend**
-- Node.js  
-- Express.js  
-- Flask  
-
-### **Database**
-- MongoDB  
-- PostgreSQL  
-- Firebase  
-
-### **AI / ML**
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- TensorFlow  
-- PyTorch  
-- Keras  
-- OpenCV  
-
-### **Tools**
-- Postman  
-- Docker  
-- VS Code  
-- Git & GitHub  
-- Jupyter  
-- Figma  
-
----
 
 ## 💼 Professional Experience  
 
