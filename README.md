@@ -1,22 +1,4 @@
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-## 👨‍💻 About Me  
-
-I am passionate about solving real-world problems through practical software and intelligent solutions, always learning and applying new ideas to make a meaningful impact.
-
-Currently pursuing **B.Tech in Artificial Intelligence & Machine Learning** at **Kongu Engineering College, Erode**.  
-Let’s connect and collaborate!
-
----
-
-    </td>
-    <td width="50%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
-    </td>
-  </tr>
-</table>
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" /> </p> <h1 align="center">🌌 WELCOME TO MY UNIVERSE, I'm SANJAY N</h1> <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3> <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4> <br> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" /> </div> <br>
 
 
 <h2 align="center">📈 Contribution Graph</h2>
