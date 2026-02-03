@@ -29,11 +29,10 @@
   <li><span> Java, Python, C, SQL</span></li>
 </ul>
 
-<h3 align="left">Backend</h3>
+<h3 align="left">Web & Mobile</h3>
 <ul>
-  <li><span>Runtime   : </span> <span>Node.js, Flask</span></li>
-  <li><span>Framework : </span> <span>Express</span></li>
-  <li><span>Database  : </span> <span>MongoDB, PostgreSQL, Firebase, Supabase</span></li>
+  <li><span>React.js, Node.js, HTML,
+CSS, TailwindCSS</span></li>
 </ul>
 
 <h3 align="left">Tools</h3>
