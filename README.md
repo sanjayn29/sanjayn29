@@ -15,6 +15,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
 </p>
 
+<br>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as Cloud Engineer
+
+- 💬 Ask me about **Terraform, Google Cloud, AWS, Docker, Kubernetes**
+
+- 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
+
+- 📄 Know about my experiences [Workfolio](https://jayasuryam.tech)
+
+- ⚡ Fun fact **I think I'm funny**
+
+<br>
+
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
