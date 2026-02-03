@@ -87,13 +87,6 @@ _Discover my standout accomplishments in hackathons, coding competitions, and in
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
 </p>
-
-<h3 align="center">Passionate Curiosity-Driven Learner</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayn29&theme=onedark&no-bg=true&no-frame=true" />
-</p>
-
 ---
 
 <h2 align="center">💻 LeetCode Stats</h2>
