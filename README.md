@@ -52,23 +52,6 @@ Firebase, Supabase</span></li>
 </ul>
 <br />
 
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<h3 align="center">Passionate Curiosity-Driven Learner</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayn29&theme=onedark&no-bg=true&no-frame=true" />
-</p>
-
----
-
-<h2 align="center">💻 LeetCode Stats</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap">
-</p>
 
 
 <br><br><br><br>
@@ -97,19 +80,27 @@ _Discover my standout accomplishments in hackathons, coding competitions, and in
 | 2024 | 🧠 Coding Quest – NEWELL’S 2024 | 🥈 2nd Prize | Showcased problem-solving and logical thinking in technical competition. |
 | 2024 | ✍️ Red Ribbon Club – Slogan Writing Competition | 🥈 2nd Prize | Promoted awareness and social responsibility through impactful messaging. |
 
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
+</p>
 
+<h3 align="center">Passionate Curiosity-Driven Learner</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjayn29&theme=onedark&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+<h2 align="center">💻 LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap">
+</p> 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjayn29&show_icons=true&theme=nightowl"/>
-</td>
-<td width="50%" align="center">
 <img src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl"/>
-</td>
-</tr>
-</table>
+
 
 <!--Contact Section--> 
 
