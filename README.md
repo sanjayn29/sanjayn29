@@ -157,7 +157,8 @@ Firebase, Supabase</span></li>
 </p>
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
-<table align="center"> <tr> <td width="50%" align="center"> <h2>💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h2> <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap" /> </td> <td width="50%" align="center"> <h2>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2> <img src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl" /> </td> </tr> </table>
+<table align="center"> <tr> <td width="50%" align="center"> <h2>💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h2> <img src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap" /> </td> <td width="50%" align="center"> <h2>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2> 
+ <img src="https://streak-stats.demolab.com?user=sanjayn29&theme=nightowl" /> </td> </tr> </table>
 
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
 <p align="center">
