@@ -24,7 +24,7 @@
 <br>
 <br>
 
-<h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -164,8 +164,16 @@ Firebase, Supabase</span></li>
 <br> 
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
-<h3 align="left">💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h3>
-<h3 align="right">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h3>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h3>💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h3>
+    </td>
+    <td align="right">
+      <h3>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h3>
+    </td>
+  </tr>
+</table>
 <table align="center">
   <tr>
     <td width="50%" align="center">
