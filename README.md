@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" /> </p> <h1 align="center">🌌 WELCOME TO MY UNIVERSE, I'm SANJAY N</h1> <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3> <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 <a href="https://www.sanjayn.me"><h3>Portfolio</h3></a>
 <p>https://www.sanjayn.me/</p>
-- 🌱 I’m currently learning **LLM-Langraph**
+- 🔭 I’m currently learning **LLM-Langraph**
 
 - 💬 Ask me about *Freelancing*
 
@@ -22,16 +22,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working in [CodeMagen](https://www.codemagen.com) as Cloud Engineer
+<a href="https://www.sanjayn.me"><h3>Portfolio</h3></a>
+<p>https://www.sanjayn.me/</p>
+- 🔭 I’m currently learning **LLM-Langraph**
 
-- 💬 Ask me about **Terraform, Google Cloud, AWS, Docker, Kubernetes**
+- 💬 Ask me about *Freelancing*
 
-- 📫 How to reach me [Email](jayasuryakarthi55@gmail.com)
+- 📫 How to reach me *sanjayn29.aiml@gmail.com*
+ 
+- 🤖 Engineering At **Kongu Engineering College**
 
-- 📄 Know about my experiences [Workfolio](https://jayasuryam.tech)
-
-- ⚡ Fun fact **I think I'm funny**
-
+- 📄 Know about my Resume [Resume Link](https://github.com/sanjayn29/sanjayn29/blob/main/Sanjay%20N.pdf)
 <br>
 
 <h2 align="center">📈 Contribution Graph</h2>
