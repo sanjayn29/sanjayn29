@@ -153,11 +153,32 @@ Firebase, Supabase</span></li>
   <a href="https://leetcode.com/u/sanjayn29">LeetCode</a>
 </p>
 
----
+
+<!--Contact Section--> 
+
+<h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <a href="mailto:sanjayn29.aiml@gmail.com" target="_blank">
+    <img src="./gmail.png" width="50" height="50" alt="sanjayn29.aiml@gmail.com" />
+  </a>
+  <a href="https://www.instagram.com/_sanjay_n_/" target="_blank">
+    <img src="./instagram.png" width="50" height="50" alt="sanjay" />
+  </a>
+  <a href="https://github.com/sanjayn29" target="_blank">
+    <img src="./github.png" width="50" height="50" alt="Sanjay k" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjayn29" target="_blank">
+    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://leetcode.com/u/sanjayn29" target="_blank">
+    <img src="./leetcode.png" width="50" height="50" alt="Sanjay k" />
+  </a>
+  
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<em><b>I love connecting with different people</b> — feel free to say <b>Hi!</b> 😊</em>
