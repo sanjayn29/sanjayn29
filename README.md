@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
 </p>
 
-<h1 align="center">🌌 WELCOME TO MY UNIVERSE, I'm SANJAY N</h1>
+<h1 align="center">🌌 Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Uɴɪᴠᴇʀsᴇ — I’ᴍ Sᴀɴᴊᴀʏ N</h1>
+---
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
@@ -24,7 +25,8 @@
 - 📄 Know about my Resume [Resume Link](https://github.com/sanjayn29/sanjayn29/blob/main/Sanjay%20N.pdf)
 <br>
 
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
