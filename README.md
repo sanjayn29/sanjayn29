@@ -67,18 +67,7 @@ Firebase, Supabase</span></li>
 
 ---
 
-## 🏆 Key Achievements  
-
-| Year | Event | Result |
-|------|------------------------------|----------------|
-| 2025 | Smart India Hackathon (Grand Finale) | Finalist |
-| 2025 | SIH Internal Hackathon (Software) | 1st Prize |
-| 2025 | Cognitive X Gen AI Hackathon | 1st Prize |
-| 2025 | BYTS India Hackathon (AI Edition) | Best Innovation |
-| 2025 | KEC Hackathon (Software Edition) | Runner-up |
-| 2024 | Code Clash – SDC Fest | 3rd Prize |
-| 2024 | Coding Quest – NEWELL’S | 2nd Prize |
-| 2024 | Red Ribbon Club – Slogan Writing | 2nd Prize |
+## 🏆 Key Achievements _Discover my standout accomplishments in hackathons, coding competitions, and innovation challenges._ | 📅 Year | 🏁 Event | 🏅 Achievement | 📝 Description | |--------|------------------|---------------|----------------| | 2025 | 🛠️ Smart India Hackathon 2025 – Hardware Edition (Grand Finale) | 🎖️ Finalist | Participated in SIH Grand Finale. Contributed to a hardware-based solution and gained national-level experience. | | 2025 | 🥇 SIH Internal Hackathon 2025 – Software Edition | 🥇 1st Prize | Developed an AI-powered solution for problem ID: SIH25073. | | 2025 | 🤖 Cognitive X Gen AI Hackathon | 🥇 1st Prize | Built an AI-powered finance application using Generative AI. | | 2025 | 💡 BYTS India Hackathon (AI Edition) | 🌟 Best Innovation Award | Developed a FinTech AI-based innovative solution. | | 2025 | 🌾 KEC Hackathon 2025 – Software Edition | 🥈 Runner-up | Built an AgriTech solution in a 30-hour state-level hackathon. | | 2024 | 💻 Code Clash – SDC Fest 2024 | 🥉 3rd Prize | Demonstrated strong logical thinking and coding skills. | | 2024 | 🧠 Coding Quest – NEWELL’S 2024 | 🥈 2nd Prize | Showcased problem-solving and logical thinking in technical competition. | | 2024 | ✍️ Red Ribbon Club – Slogan Writing Competition | 🥈 2nd Prize | Promoted awareness and social responsibility through impactful messaging. |
 
 
 <h2 align="center">📈 Contribution Graph</h2>
