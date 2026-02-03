@@ -91,18 +91,19 @@ Firebase, Supabase</span></li>
 
 
 ## 🏆 Key Achievements  
+_Discover my standout accomplishments in hackathons, coding competitions, and innovation challenges._
 
-| Place | Achievement | Description |
-|------|-------------|-------------|
-| 🥇 1st | AI Conclave – 24 Hour Hackathon | Won 1st place at National Level Hackathon (₹10,000 reward) |
-| 🥇 1st | Puzzle Solving Fest | Won 1st place at KEC |
-| 🥈 2nd | 24-Hour Hackathon | Won 2nd place at KEC |
-| 🥉 3rd | Front to Back Hackathon | GCT Coimbatore |
-| 🥉 3rd | 38-Hour Hackathon | KEC Hackathon |
-| 🥉 3rd | IEEE Paper Presentation | IEEE Student Branch, KEC |
-| 📄 | Research Paper Published | IEEE Xplore – Plant Disease Classification using Deep Learning |
+| 📅 Year | 🏁 Event / Award | 🏫 Organization | 🏅 Achievement | 📝 Description |
+|--------|------------------|-----------------|---------------|----------------|
+| 2025 | 🛠️ Smart India Hackathon 2025 – Hardware Edition (Grand Finale) | Ministry of Education, Govt. of India | 🎖️ Finalist | Participated in SIH Grand Finale. Contributed to a hardware-based solution and gained national-level experience. |
+| 2025 | 🥇 SIH Internal Hackathon 2025 – Software Edition | Kongu Engineering College | 🥇 1st Prize | Developed an AI-powered solution for problem ID: SIH25073. |
+| 2025 | 🤖 Cognitive X Gen AI Hackathon | Kongu Engineering College (with IBM & SmartBridge) | 🥇 1st Prize | Built an AI-powered finance application using Generative AI. |
+| 2025 | 💡 BYTS India Hackathon (AI Edition) | BYTS, Kongu Engineering College | 🌟 Best Innovation Award | Developed a FinTech AI-based innovative solution. |
+| 2025 | 🌾 KEC Hackathon 2025 – Software Edition | Kongu Engineering College | 🥈 Runner-up | Built an AgriTech solution in a 30-hour state-level hackathon. |
+| 2024 | 💻 Code Clash – SDC Fest 2024 | Self Development Club, KEC | 🥉 3rd Prize | Demonstrated strong logical thinking and coding skills. |
+| 2024 | 🧠 Coding Quest – NEWELL’S 2024 | Dept. of AI, KEC | 🥈 2nd Prize | Showcased problem-solving and logical thinking in technical competition. |
+| 2024 | ✍️ Red Ribbon Club – Slogan Writing Competition | Red Ribbon Club, KEC | 🥈 2nd Prize | Promoted awareness and social responsibility through impactful messaging. |
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
