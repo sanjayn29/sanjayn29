@@ -168,22 +168,9 @@ Firebase, Supabase</span></li>
     </td>
 <td width="50%" align="center">
   <h2>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sanjayn29&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" 
-    alt="GitHub Stats" 
-  />
-  <br/><br/>
-
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=sanjayn29&theme=transparent&hide_border=true" 
     alt="GitHub Streak Stats" 
-  />
-  <br/><br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayn29&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
-    alt="Top Languages" 
   />
 </td>
   </tr>
