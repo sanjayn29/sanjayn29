@@ -83,31 +83,12 @@ Firebase, Supabase</span></li>
 
 ## 💼 Professional Experience  
 
-### **Software Developer (Freelance)**  
-**Outliers United** — *Mar 2025 – Present*  
+| Role | Organization | Duration | Key Responsibilities |
+|------|-------------|----------|----------------------|
+| **Software Developer (Freelance)** | Outliers United | Mar 2025 – Present | Developed real-world web and e-commerce applications<br>Delivered production-ready solutions based on client requirements |
+| **Software Developer & Machine Learning Engineer (Freelance)** | Neovate | May 2025 – Present | Architected multipurpose medical portfolio management system<br>Integrated ML with full stack development<br>Delivered end-to-end freelance project |
+| **AI Agentic Intern** | CubeAISolutions Tech Pvt Ltd | Jul 2025 – Oct 2025 | Built AI models for medical symptom analysis and sentiment classification<br>Solved real-world problem statements<br>Gained hands-on experience in practical AI solutions |
 
-- Developed real-world web and e-commerce applications  
-- Delivered production-ready solutions based on client requirements  
-
----
-
-### **Software Developer & Machine Learning Engineer (Freelance)**  
-**Neovate** — *May 2025 – Present*  
-
-- Architected multipurpose medical portfolio management system  
-- Integrated ML and full stack development  
-- Delivered end-to-end freelance project  
-
----
-
-### **AI Agentic Intern**  
-**CubeAISolutions Tech Pvt Ltd** — *Jul 2025 – Oct 2025*  
-
-- Built AI models for medical symptom analysis and sentiment classification  
-- Solved real-world problem statements  
-- Gained hands-on experience in practical AI solutions  
-
----
 
 ## 🏆 Key Achievements  
 
@@ -135,24 +116,6 @@ Firebase, Supabase</span></li>
 </td>
 </tr>
 </table>
-
----
-
-<h2 align="center">🤝 Get In Touch</h2>
-
-<p align="center">
-🌐 www.sanjayn.me  
-📧 sanjayn29.aiml@gmail.com  
-📞 +91 90805 81688  
-📍 Vellore, Tamil Nadu, India  
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sanjayn29">LinkedIn</a> •
-  <a href="https://github.com/sanjayn29">GitHub</a> •
-  <a href="https://leetcode.com/u/sanjayn29">LeetCode</a>
-</p>
-
 
 <!--Contact Section--> 
 
