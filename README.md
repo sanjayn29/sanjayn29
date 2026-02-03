@@ -1,5 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" /> </p> <h1 align="center">🌌 WELCOME TO MY UNIVERSE, I'm SANJAY N</h1> <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3> <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
-
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <p align="left">
