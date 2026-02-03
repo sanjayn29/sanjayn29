@@ -61,15 +61,39 @@ Firebase, Supabase</span></li>
 <br>
 <br>
 
-## 💼 Professional Experience  
+<h2 align="center">💼 Professional Experience</h2>
+<div align="center">
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Organization</th>
+    <th>Duration</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td>Software Developer (Freelance)</td>
+    <td>Outliers United</td>
+    <td>Mar 2025 – Present</td>
+    <td>Built web and e-commerce applications</td>
+  </tr>
+  <tr>
+    <td>Software Developer & ML Engineer (Freelance)</td>
+    <td>Neovate</td>
+    <td>May 2025 – Present</td>
+    <td>Developed medical portfolio system using ML</td>
+  </tr>
+  <tr>
+    <td>AI Agentic Intern</td>
+    <td>CubeAISolutions Tech Pvt Ltd</td>
+    <td>Jul 2025 – Oct 2025</td>
+    <td>Created AI models for medical and sentiment analysis</td>
+  </tr>
+</table>
+</div>
 
-| Role | Organization | Duration | Highlights |
-|------|-------------|----------|------------|
-| Software Developer (Freelance) | Outliers United | Mar 2025 – Present | Built web and e-commerce applications |
-| Software Developer & ML Engineer (Freelance) | Neovate | May 2025 – Present | Developed medical portfolio system using ML |
-| AI Agentic Intern | CubeAISolutions Tech Pvt Ltd | Jul 2025 – Oct 2025 | Created AI models for medical and sentiment analysis |
+<br>
+<br>
 
----
 
 ## 🏆 Key Achievements  
 _Discover my standout accomplishments in hackathons, coding competitions, and innovation challenges._
