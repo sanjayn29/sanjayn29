@@ -61,7 +61,7 @@ Firebase, Supabase</span></li>
 <br>
 <br>
 
-<h2 align="center">💼 Professional Experience</h2>
+<h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Exᴘᴇʀɪᴇɴᴄᴇ</h2>
 <div align="center">
 <table>
   <tr>
@@ -92,23 +92,66 @@ Firebase, Supabase</span></li>
 </div>
 
 <br>
+
+<h2 align="center">🏆 Kᴇʏ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
+<table align="center">
+  <tr>
+    <th align="center">📅 Year</th>
+    <th align="center">🏁 Event</th>
+    <th align="center">🏅 Achievement</th>
+    <th align="center">📝 Description</th>
+  </tr>
+  <tr>
+    <td align="center">2025</td>
+    <td>🛠️ Smart India Hackathon – Hardware (Grand Finale)</td>
+    <td align="center">🎖️ Finalist</td>
+    <td>National-level hardware solution</td>
+  </tr>
+  <tr>
+    <td align="center">2025</td>
+    <td>🥇 SIH Internal Hackathon – Software</td>
+    <td align="center">🥇 1st Prize</td>
+    <td>AI solution for problem ID: SIH25073</td>
+  </tr>
+  <tr>
+    <td align="center">2025</td>
+    <td>🤖 Cognitive X Gen AI Hackathon</td>
+    <td align="center">🥇 1st Prize</td>
+    <td>GenAI finance application</td>
+  </tr>
+  <tr>
+    <td align="center">2025</td>
+    <td>💡 BYTS India Hackathon (AI Edition)</td>
+    <td align="center">🌟 Best Innovation</td>
+    <td>FinTech AI-based solution</td>
+  </tr>
+  <tr>
+    <td align="center">2025</td>
+    <td>🌾 KEC Hackathon – Software Edition</td>
+    <td align="center">🥈 Runner-up</td>
+    <td>AgriTech team solution</td>
+  </tr>
+  <tr>
+    <td align="center">2024</td>
+    <td>💻 Code Clash – SDC Fest</td>
+    <td align="center">🥉 3rd Prize</td>
+    <td>Strong coding & logic skills</td>
+  </tr>
+  <tr>
+    <td align="center">2024</td>
+    <td>🧠 Coding Quest – NEWELL’S</td>
+    <td align="center">🥈 2nd Prize</td>
+    <td>Problem-solving competition</td>
+  </tr>
+  <tr>
+    <td align="center">2024</td>
+    <td>✍️ Red Ribbon Club – Slogan Writing</td>
+    <td align="center">🥈 2nd Prize</td>
+    <td>Awareness & social message</td>
+  </tr>
+</table>
+
 <br>
-
-
-## 🏆 Key Achievements  
-_Discover my standout accomplishments in hackathons, coding competitions, and innovation challenges._
-
-| 📅 Year | 🏁 Event | 🏅 Achievement | 📝 Description |
-|--------|------------------------------|----------------|----------------|
-| 2025 | 🛠️ Smart India Hackathon – Hardware (Grand Finale) | 🎖️ Finalist | National-level hardware solution |
-| 2025 | 🥇 SIH Internal Hackathon – Software | 🥇 1st Prize | AI solution for problem ID: SIH25073 |
-| 2025 | 🤖 Cognitive X Gen AI Hackathon | 🥇 1st Prize | GenAI finance application |
-| 2025 | 💡 BYTS India Hackathon (AI Edition) | 🌟 Best Innovation | FinTech AI-based solution |
-| 2025 | 🌾 KEC Hackathon – Software Edition | 🥈 Runner-up | AgriTech team solution |
-| 2024 | 💻 Code Clash – SDC Fest | 🥉 3rd Prize | Strong coding & logic skills |
-| 2024 | 🧠 Coding Quest – NEWELL’S | 🥈 2nd Prize | Problem-solving competition |
-| 2024 | ✍️ Red Ribbon Club – Slogan Writing | 🥈 2nd Prize | Awareness & social message |
-
 
  <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
