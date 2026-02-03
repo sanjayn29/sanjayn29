@@ -1,9 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
-</p>
-
 <h1 align="center">🌌 Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Uɴɪᴠᴇʀsᴇ — I’ᴍ Sᴀɴᴊᴀʏ N</h1>
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
@@ -112,6 +108,10 @@ _Discover my standout accomplishments in hackathons, coding competitions, and in
 
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
+</p>
   <a href="mailto:sanjayn29.aiml@gmail.com" target="_blank">
     <img src="./gmail.png" width="50" height="50" alt="sanjayn29.aiml@gmail.com" />
   </a>
