@@ -11,7 +11,7 @@
 
 - 📄 Know about my Resume [Resume Link](https://github.com/sanjayn29/sanjayn29/blob/main/Sanjay%20N.pdf)
 
-<p align="left">
+<p align="right">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" />
 </p>
 
