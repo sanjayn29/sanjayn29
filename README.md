@@ -35,11 +35,16 @@
 CSS, TailwindCSS</span></li>
 </ul>
 
+<h3 align="left">Database</h3>
+<ul>
+  <li><span>MongoDB, PostgreSQL,
+Firebase, Supabase</span></li>
+</ul>
+
 <h3 align="left">Tools</h3>
 <ul>
-  <li><span>Version Control : </span> <span>GitHub</span></li>
-  <li><span>IDE             : </span> <span>VS Code, Antigravity</span></li>
-  <li><span>Visualization   : </span> <span> PowerBi
+  <li><span>Postman, Docker, Git &
+Github, Jupyter</span></li>
 </ul>
 <br />
 
