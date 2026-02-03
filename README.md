@@ -5,12 +5,13 @@
 </p>
 
 <h1 align="center">🌌 Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Uɴɪᴠᴇʀsᴇ — I’ᴍ Sᴀɴᴊᴀʏ N</h1>
----
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+
+<br>
+<br>
 
 <a href="https://www.sanjayn.me"><h3>Portfolio : https://www.sanjayn.me </h3>
 
@@ -23,10 +24,11 @@
 - 🤖 Engineering At **Kongu Engineering College**
 
 - 📄 Know about my Resume [Resume Link](https://github.com/sanjayn29/sanjayn29/blob/main/Sanjay%20N.pdf)
+  
+<br>
 <br>
 
 <h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -59,12 +61,9 @@ Firebase, Supabase</span></li>
 <ul>
   <li><span>Postman, Docker, PowerBi, Git, Figma, Jupyter</span></li>
 </ul>
-<br />
 
-
-
-<br><br><br><br>
-
+<br>
+<br>
 
 ## 💼 Professional Experience  
 
