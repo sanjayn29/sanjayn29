@@ -4,7 +4,8 @@
 <br><br>
 
 <a href="https://www.sanjayn.me"><h3>Portfolio</h3></a>
-<p>https://www.sanjayn.me/</p>
+<p>https://www.sanjayn.me</p>
+
 - 🔭 I’m currently learning **LLM-Langraph**
 
 - 💬 Ask me about *Freelancing*
@@ -23,11 +24,9 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">Languages</h3>
 <ul>
-  <li><span>Technology : </span> <span>HTML, CSS, JS</span></li>
-  <li><span>Framework  : </span> <span>React</span></li>
-  <li><span>UI Library :</span> <span> Bootstrap</span></li>
+  <li><span> Java, Python, C, SQL</span></li>
 </ul>
 
 <h3 align="left">Backend</h3>
@@ -41,6 +40,7 @@
 <ul>
   <li><span>Version Control : </span> <span>GitHub</span></li>
   <li><span>IDE             : </span> <span>VS Code, Antigravity</span></li>
+  <li><span>Visualization   : </span> <span> PowerBi
 </ul>
 <br />
 
