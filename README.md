@@ -153,10 +153,16 @@ Firebase, Supabase</span></li>
 
 <br>
 
- <h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" 
+    alt="Contribution Graph"
+  />
 </p>
+
+<br> 
+
 <table align="center">
   <tr>
     <td width="50%" align="center">
