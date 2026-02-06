@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">🌌 Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Uɴɪᴠᴇʀsᴇ — I’ᴍ Sᴀɴᴊᴀʏ N</h1>
+
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
 <h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
 
