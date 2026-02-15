@@ -70,17 +70,23 @@ Firebase, Supabase</span></li>
     <th>Duration</th>
     <th>Highlights</th>
   </tr>
+ <tr>
+    <td>Software Developer (Mobile)</td>
+    <td>LIGTHS INC</td>
+    <td>Feb 2026 – Present</td>
+    <td>Developing a fintech mobile application</td>
+  </tr>
+   <tr>
+    <td>Software Developer & ML Engineer (Freelance)</td>
+    <td>Neovate</td>
+    <td>May 2025 – Present</td>
+    <td>Developed medical portfolio system using ML</td>
+  </tr>
   <tr>
     <td>Software Developer (Freelance)</td>
     <td>Outliers United</td>
     <td>Mar 2025 – Present</td>
     <td>Built web and e-commerce applications</td>
-  </tr>
-  <tr>
-    <td>Software Developer & ML Engineer (Freelance)</td>
-    <td>Neovate</td>
-    <td>May 2025 – Present</td>
-    <td>Developed medical portfolio system using ML</td>
   </tr>
   <tr>
     <td>AI Agentic Intern</td>
