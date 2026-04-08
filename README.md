@@ -161,7 +161,7 @@ Firebase, Supabase</span></li>
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=ffffff&line=42d78a&point=ffffff&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=EED05A&line=D4AF37&point=FFFFFF&area=true&hide_border=true" 
     alt="Contribution Graph"
   />
 </p>
