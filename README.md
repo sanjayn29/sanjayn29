@@ -101,17 +101,17 @@ Firebase, Supabase</span></li>
   </tr>
 
   <tr>
-    <td>🛠️ Smart India Hackathon – Hardware Edition (Grand Finale)</td>
-    <td align="center">🎖️ Finalist</td>
-    <td>National-level hardware solution</td>
-    <td align="center">2025</td>
+    <td><b>🛠️ Smart India Hackathon – Hardware Edition (Grand Finale)</b></td>
+    <td align="center"><b>🎖️ Finalist</b></td>
+    <td><b>National-level hardware solution</b></td>
+    <td align="center"><b>2025</b></td>
   </tr>
 
   <tr>
-    <td>🥇 SIH Internal Hackathon – Software Edition</td>
-    <td align="center">🥇 1st Prize</td>
-    <td>AI solution for problem ID: SIH25073</td>
-    <td align="center">2025</td>
+    <td><b>🥇 SIH Internal Hackathon – Software Edition</b></td>
+    <td align="center"><b>🥇 1st Prize</b></td>
+    <td><b>AI solution for problem ID: SIH25073</b></td>
+    <td align="center"><b>2025</b></td>
   </tr>
 
   <tr>
@@ -156,7 +156,7 @@ Firebase, Supabase</span></li>
     <td align="center">2024</td>
   </tr>
 
-</table>>
+</table>
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <p align="center">
