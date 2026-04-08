@@ -75,87 +75,33 @@ Firebase, Supabase</span></li>
 
 </div>
 </div>
-<h2 align="center">🏆 Kᴇʏ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
+<h2 align="center">🏆 Key Achievements</h2>
 
-<table align="center">
-  <tr>
-    <th align="center">📅 Year</th>
-    <th align="center">🏁 Event</th>
-    <th align="center">🏅 Achievement</th>
-    <th align="center">📝 Description</th>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center">2026</td>
-    <td>✈️ Freelancers Club Hacksagon (Hackathon)</td>
-    <td align="center">🥇 1st Prize</td>
-    <td>TravelTech mobile application</td>
-  </tr>
+### 🥇 Hackathon Wins & Tech Achievements
 
-  <tr>
-    <td align="center">2026</td>
-    <td>⚡ Electrothon Hackathon – EEE Department</td>
-    <td align="center">🥇 1st Prize</td>
-    <td>AI-powered E-log analysis platform</td>
-  </tr>
+| 🏆 Achievement | 📅 Year | 🏁 Event | 📝 Description |
+|---|---|---|---|
+| 🥇 **1st Prize** | 2026 | ⚡ **Electrothon Hackathon – EEE Department** | Built an **AI-powered E-Log analysis platform** |
+| 🥇 **1st Prize** | 2026 | ✈️ **Freelancers Club Hacksagon** | Developed a **TravelTech mobile application** |
+| 🎖️ **Finalist** | 2025 | 🛠️ **Smart India Hackathon – Hardware (Grand Finale)** | National-level **hardware innovation solution** |
+| 🥇 **1st Prize** | 2025 | 🤖 **Cognitive X GenAI Hackathon** | Built a **GenAI finance application** |
+| 🌟 **Best Innovation** | 2025 | 💡 **BYTS India Hackathon (AI Edition)** | Designed a **FinTech AI solution** |
+| 🥈 **Runner-up** | 2025 | 🌾 **KEC Hackathon – Software Edition** | Developed an **AgriTech team solution** |
 
-  <tr>
-    <td align="center">2025</td>
-    <td>🛠️ Smart India Hackathon – Hardware (Grand Finale)</td>
-    <td align="center">🎖️ Finalist</td>
-    <td>National-level hardware solution</td>
-  </tr>
+---
 
-  <tr>
-    <td align="center">2025</td>
-    <td>🥇 SIH Internal Hackathon – Software</td>
-    <td align="center">🥇 1st Prize</td>
-    <td>AI solution for problem ID: SIH25073</td>
-  </tr>
+### 💻 Coding & Technical Competitions
 
-  <tr>
-    <td align="center">2025</td>
-    <td>🤖 Cognitive X Gen AI Hackathon</td>
-    <td align="center">🥇 1st Prize</td>
-    <td>GenAI finance application</td>
-  </tr>
+| 🏆 Achievement | 📅 Year | 🏁 Event | 📝 Description |
+|---|---|---|---|
+| 🥇 **1st Prize** | 2025 | 🥇 **SIH Internal Hackathon – Software** | AI solution for **Problem ID: SIH25073** |
+| 🥉 **3rd Prize** | 2024 | 💻 **Code Clash – SDC Fest** | Demonstrated strong **coding & logic skills** |
+| 🥈 **2nd Prize** | 2024 | 🧠 **Coding Quest – NEWELL’S** | Competitive **problem-solving challenge** |
+| 🥈 **2nd Prize** | 2024 | ✍️ **Red Ribbon Club – Slogan Writing** | Awareness and **social impact messaging** |
 
-  <tr>
-    <td align="center">2025</td>
-    <td>💡 BYTS India Hackathon (AI Edition)</td>
-    <td align="center">🌟 Best Innovation</td>
-    <td>FinTech AI-based solution</td>
-  </tr>
-
-  <tr>
-    <td align="center">2025</td>
-    <td>🌾 KEC Hackathon – Software Edition</td>
-    <td align="center">🥈 Runner-up</td>
-    <td>AgriTech team solution</td>
-  </tr>
-
-  <tr>
-    <td align="center">2024</td>
-    <td>💻 Code Clash – SDC Fest</td>
-    <td align="center">🥉 3rd Prize</td>
-    <td>Strong coding & logic skills</td>
-  </tr>
-
-  <tr>
-    <td align="center">2024</td>
-    <td>🧠 Coding Quest – NEWELL’S</td>
-    <td align="center">🥈 2nd Prize</td>
-    <td>Problem-solving competition</td>
-  </tr>
-
-  <tr>
-    <td align="center">2024</td>
-    <td>✍️ Red Ribbon Club – Slogan Writing</td>
-    <td align="center">🥈 2nd Prize</td>
-    <td>Awareness & social message</td>
-  </tr>
-
-</table>
+</div>
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <p align="center">
