@@ -182,7 +182,7 @@ Firebase, Supabase</span></li>
 
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=CE5842&style=for-the-badge&logo=star" />
+  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=EED05A&style=for-the-badge" />
 </p>
 <p align="center">
   <a href="mailto:sanjayn29.aiml@gmail.com" target="_blank">
@@ -205,3 +205,4 @@ Firebase, Supabase</span></li>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EED05A&height=65&section=footer"/>
 </p>
+
