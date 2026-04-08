@@ -173,13 +173,6 @@ Firebase, Supabase</span></li>
         alt="LeetCode Stats" 
       />
     </td>
-<td width="50%" align="center">
-  <h2>📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=sanjayn29&theme=transparent&hide_border=true" 
-    alt="GitHub Streak Stats" 
-  />
-</td>
   </tr>
 </table>
 
