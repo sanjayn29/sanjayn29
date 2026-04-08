@@ -101,21 +101,21 @@ Firebase, Supabase</span></li>
 
   <tr>
     <td align="center">2025</td>
-    <td>🛠️ Smart India Hackathon – Hardware (Grand Finale)</td>
+    <td>🛠️ Smart India Hackathon – Hardware Edition(Grand Finale)</td>
     <td align="center">🎖️ Finalist</td>
     <td>National-level hardware solution</td>
   </tr>
 
   <tr>
     <td align="center">2025</td>
-    <td>🥇 SIH Internal Hackathon – Software</td>
+    <td>🥇 SIH Internal Hackathon – Software Edition</td>
     <td align="center">🥇 1st Prize</td>
     <td>AI solution for problem ID: SIH25073</td>
   </tr>
 
   <tr>
     <td align="center">2025</td>
-    <td>🤖 Cognitive X Gen AI Hackathon</td>
+    <td>🤖 Cognitive X Gen AI Hackathon - KEC in collaboration with IBM and Smartbridge</td>
     <td align="center">🥇 1st Prize</td>
     <td>GenAI finance application</td>
   </tr>
@@ -129,7 +129,7 @@ Firebase, Supabase</span></li>
 
   <tr>
     <td align="center">2025</td>
-    <td>🌾 KEC Hackathon – Software Edition</td>
+    <td>🌾 KEC Hackathon – KEC</td>
     <td align="center">🥈 Runner-up</td>
     <td>AgriTech team solution</td>
   </tr>
