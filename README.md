@@ -203,5 +203,5 @@ Firebase, Supabase</span></li>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EED05A&height=65&section=footer"/>
+</p>
