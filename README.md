@@ -65,97 +65,98 @@ Firebase, Supabase</span></li>
 
 <div align="center">
 
-| 🏢 Organization | 💻 Role | 📅 Duration | 🚀 Highlights |
-|----------------|--------|-------------|--------------|
-| **LIGTHS INC** | Software Developer (Mobile) | Feb 2026 – Present | Developing a **fintech mobile application** with modern UI/UX and scalable architecture |
-| **TBI@KEC** | Software Developer | Jul 2025 – Feb 2026 | Redesigned the **official website**, built **TBI office automation system**, and developed **portfolio management platform** |
-| **CubeAISolutions Tech Pvt Ltd** | AI Agentic Intern | Jul 2025 – Sep 2025 | Created **AI models for medical prediction and sentiment analysis** |
-| **Neovate** | Software Developer & ML Engineer (Freelance) | May 2025 – Present | Developed **business websites with SEO optimization**, provided **business technical support**, and designed **branding materials, cards, and social media platforms** |
-| **Outliers United** | Software Developer (Freelance) | Mar 2025 – Present | Developed **business and e-commerce websites with SEO** |
+| 🏢 Organization | 💻 Role | 🚀 Highlights | 📅 Duration |
+|----------------|--------|--------------|-------------|
+| **LIGTHS INC** | Software Developer (Mobile) | Developing a **fintech mobile application** with modern UI/UX and scalable architecture | Feb 2026 – Present |
+| **TBI@KEC** | Software Developer | Redesigned the **official website**, built **TBI office automation system**, and developed **portfolio management platform** | Jul 2025 – Feb 2026 |
+| **CubeAISolutions Tech Pvt Ltd** | AI Agentic Intern | Created **AI models for medical prediction and sentiment analysis** | Jul 2025 – Sep 2025 |
+| **Neovate** | Software Developer & ML Engineer (Freelance) | Developed **business websites with SEO optimization**, provided **business technical support**, and designed **branding materials, cards, and social media platforms** | May 2025 – Present |
+| **Outliers United** | Software Developer (Freelance) | Developed **business and e-commerce websites with SEO** | Mar 2025 – Present |
 
 </div>
 </div>
+
 <h2 align="center">🏆 Kᴇʏ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
 
 <table align="center">
   <tr>
-    <th align="center">📅 Year</th>
     <th align="center">🏁 Event</th>
     <th align="center">🏅 Achievement</th>
-    <th align="center">📝 Description</th>
+    <th align="center">🚀 Highlights</th>
+    <th align="center">📅 Year</th>
   </tr>
 
   <tr>
-    <td align="center">2026</td>
     <td>✈️ Hacksagon (Hackathon) - Freelancers Club</td>
     <td align="center">🥇 1st Prize</td>
     <td>TravelTech mobile application</td>
+    <td align="center">2026</td>
   </tr>
 
   <tr>
-    <td align="center">2026</td>
     <td>⚡ Electrothon (Hackathon) – EEE Department</td>
     <td align="center">🥇 1st Prize</td>
     <td>AI-powered E-log analysis platform</td>
+    <td align="center">2026</td>
   </tr>
 
   <tr>
-    <td align="center">2025</td>
-    <td>🛠️ Smart India Hackathon – Hardware Edition(Grand Finale)</td>
+    <td>🛠️ Smart India Hackathon – Hardware Edition (Grand Finale)</td>
     <td align="center">🎖️ Finalist</td>
     <td>National-level hardware solution</td>
+    <td align="center">2025</td>
   </tr>
 
   <tr>
-    <td align="center">2025</td>
     <td>🥇 SIH Internal Hackathon – Software Edition</td>
     <td align="center">🥇 1st Prize</td>
     <td>AI solution for problem ID: SIH25073</td>
+    <td align="center">2025</td>
   </tr>
 
   <tr>
-    <td align="center">2025</td>
     <td>🤖 Cognitive X Gen AI Hackathon - KEC in collaboration with IBM and Smartbridge</td>
     <td align="center">🥇 1st Prize</td>
     <td>GenAI finance application</td>
+    <td align="center">2025</td>
   </tr>
 
   <tr>
-    <td align="center">2025</td>
     <td>💡 BYTS India Hackathon - BYTS</td>
     <td align="center">🌟 Best Innovation</td>
     <td>FinTech AI-based solution</td>
+    <td align="center">2025</td>
   </tr>
 
   <tr>
-    <td align="center">2025</td>
     <td>🌾 KEC Hackathon – KEC</td>
     <td align="center">🥈 Runner-up</td>
     <td>AgriTech team solution</td>
+    <td align="center">2025</td>
   </tr>
 
   <tr>
-    <td align="center">2024</td>
     <td>💻 Code Clash (SDC Fest) - Self Development Club</td>
     <td align="center">🥉 3rd Prize</td>
     <td>Strong coding & logic skills</td>
+    <td align="center">2024</td>
   </tr>
 
   <tr>
-    <td align="center">2024</td>
     <td>🧠 Coding Quest (NEWELL’S) - AI Department</td>
     <td align="center">🥈 2nd Prize</td>
     <td>Problem-solving competition</td>
+    <td align="center">2024</td>
   </tr>
 
   <tr>
-    <td align="center">2024</td>
     <td>✍️ Slogan Writing - Red Ribbon Club</td>
     <td align="center">🥈 2nd Prize</td>
     <td>Awareness & social message</td>
+    <td align="center">2024</td>
   </tr>
 
-</table>
+</table>>
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
 <p align="center">
