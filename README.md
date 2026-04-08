@@ -62,6 +62,7 @@ Firebase, Supabase</span></li>
 <br>
 
 <h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Exᴘᴇʀɪᴇɴᴄᴇ</h2>
+
 <div align="center">
 <table>
   <tr>
@@ -70,33 +71,44 @@ Firebase, Supabase</span></li>
     <th>Duration</th>
     <th>Highlights</th>
   </tr>
- <tr>
+
+  <tr>
     <td>Software Developer (Mobile)</td>
     <td>LIGTHS INC</td>
     <td>Feb 2026 – Present</td>
     <td>Developing a fintech mobile application</td>
   </tr>
-   <tr>
+
+  <tr>
+    <td>Software Developer</td>
+    <td>TBI@KEC</td>
+    <td>Jul 2025 – Feb 2026</td>
+    <td>Redesigned the official website, built TBI office automation system, and developed portfolio management platform</td>
+  </tr>
+
+  <tr>
     <td>Software Developer & ML Engineer (Freelance)</td>
     <td>Neovate</td>
     <td>May 2025 – Present</td>
-    <td>Developed medical portfolio system using ML</td>
+    <td>Developed medical portfolio system using machine learning</td>
   </tr>
+
   <tr>
     <td>Software Developer (Freelance)</td>
     <td>Outliers United</td>
     <td>Mar 2025 – Present</td>
     <td>Built web and e-commerce applications</td>
   </tr>
+
   <tr>
     <td>AI Agentic Intern</td>
     <td>CubeAISolutions Tech Pvt Ltd</td>
-    <td>Jul 2025 – Oct 2025</td>
-    <td>Created AI models for medical and sentiment analysis</td>
+    <td>Jul 2025 – Sep 2025</td>
+    <td>Created AI models for medical prediction and sentiment analysis</td>
   </tr>
+
 </table>
 </div>
-
 <h2 align="center">🏆 Kᴇʏ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
 <table align="center">
   <tr>
