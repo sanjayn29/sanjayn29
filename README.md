@@ -1,7 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,EED05A&height=200&section=header&text=Sanjay%20N&fontColor=FFFFFF&fontSize=40&animation=fadeIn"/>
-</p>
+
 <h1 align="center">🌌 Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Uɴɪᴠᴇʀsᴇ — I’ᴍ Sᴀɴᴊᴀʏ N</h1>
 
 <h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
