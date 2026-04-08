@@ -65,13 +65,13 @@ Firebase, Supabase</span></li>
 
 <div align="center">
 
-| 💻 Role | 🏢 Organization | 📅 Duration | 🚀 Highlights |
-|--------|----------------|-------------|--------------|
-| **Software Developer (Mobile)** | **LIGTHS INC** | Feb 2026 – Present | Developing a **fintech mobile application** with modern UI/UX and scalable architecture |
-| **Software Developer** | **TBI@KEC** | Jul 2025 – Feb 2026 | Redesigned the **official website**, built **TBI office automation system**, and developed **portfolio management platform** |
-| **Software Developer & ML Engineer (Freelance)** | **Neovate** | May 2025 – Present | Developed a **medical portfolio system using machine learning** |
-| **Software Developer (Freelance)** | **Outliers United** | Mar 2025 – Present | Built **web platforms and e-commerce applications** |
-| **AI Agentic Intern** | **CubeAISolutions Tech Pvt Ltd** | Jul 2025 – Sep 2025 | Created **AI models for medical prediction and sentiment analysis** |
+| 🏢 Organization | 💻 Role | 📅 Duration | 🚀 Highlights |
+|----------------|--------|-------------|--------------|
+| **LIGTHS INC** | Software Developer (Mobile) | Feb 2026 – Present | Developing a **fintech mobile application** with modern UI/UX and scalable architecture |
+| **TBI@KEC** | Software Developer | Jul 2025 – Feb 2026 | Redesigned the **official website**, built **TBI office automation system**, and developed **portfolio management platform** |
+| **Neovate** | Software Developer & ML Engineer (Freelance) | May 2025 – Present | Developed a **medical portfolio system using machine learning** |
+| **Outliers United** | Software Developer (Freelance) | Mar 2025 – Present | Built **web platforms and e-commerce applications** |
+| **CubeAISolutions Tech Pvt Ltd** | AI Agentic Intern | Jul 2025 – Sep 2025 | Created **AI models for medical prediction and sentiment analysis** |
 
 </div>
 </div>
