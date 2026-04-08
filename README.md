@@ -1,9 +1,28 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">🌌 Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Uɴɪᴠᴇʀsᴇ — I’ᴍ Sᴀɴᴊᴀʏ N</h1>
+<div align="center">
 
-<h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
-<h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
+<style>
+:root{
+  --bg:#000000;
+  --gold:#EED05A;
+  --gold2:#D4AF37;
+  --text:#FFFFFF;
+  --text2:#D8D8D8;
+}
+</style>
+
+</div>
+
+<h1 align="center" style="color:#EED05A;">🌌 Welcome To My Universe — I'm Sanjay N</h1>
+
+<h3 align="center" style="color:#D8D8D8;">
+A Freelancer | AI/ML Engineer & Full Stack Developer
+</h3>
+
+<h4 align="center" style="color:#D8D8D8;">
+Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering
+</h4>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
