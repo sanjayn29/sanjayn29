@@ -61,53 +61,19 @@ Firebase, Supabase</span></li>
 <br>
 <br>
 
-<h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Exᴘᴇʀɪᴇɴᴄᴇ</h2>
+<h2 align="center">💼 Professional Experience</h2>
 
 <div align="center">
-<table>
-  <tr>
-    <th>Role</th>
-    <th>Organization</th>
-    <th>Duration</th>
-    <th>Highlights</th>
-  </tr>
 
-  <tr>
-    <td>Software Developer (Mobile)</td>
-    <td>LIGTHS INC</td>
-    <td>Feb 2026 – Present</td>
-    <td>Developing a fintech mobile application</td>
-  </tr>
+| 💻 Role | 🏢 Organization | 📅 Duration | 🚀 Highlights |
+|--------|----------------|-------------|--------------|
+| **Software Developer (Mobile)** | **LIGTHS INC** | Feb 2026 – Present | Developing a **fintech mobile application** with modern UI/UX and scalable architecture |
+| **Software Developer** | **TBI@KEC** | Jul 2025 – Feb 2026 | Redesigned the **official website**, built **TBI office automation system**, and developed **portfolio management platform** |
+| **Software Developer & ML Engineer (Freelance)** | **Neovate** | May 2025 – Present | Developed a **medical portfolio system using machine learning** |
+| **Software Developer (Freelance)** | **Outliers United** | Mar 2025 – Present | Built **web platforms and e-commerce applications** |
+| **AI Agentic Intern** | **CubeAISolutions Tech Pvt Ltd** | Jul 2025 – Sep 2025 | Created **AI models for medical prediction and sentiment analysis** |
 
-  <tr>
-    <td>Software Developer</td>
-    <td>TBI@KEC</td>
-    <td>Jul 2025 – Feb 2026</td>
-    <td>Redesigned the official website, built TBI office automation system, and developed portfolio management platform</td>
-  </tr>
-
-  <tr>
-    <td>Software Developer & ML Engineer (Freelance)</td>
-    <td>Neovate</td>
-    <td>May 2025 – Present</td>
-    <td>Developed medical portfolio system using machine learning</td>
-  </tr>
-
-  <tr>
-    <td>Software Developer (Freelance)</td>
-    <td>Outliers United</td>
-    <td>Mar 2025 – Present</td>
-    <td>Built web and e-commerce applications</td>
-  </tr>
-
-  <tr>
-    <td>AI Agentic Intern</td>
-    <td>CubeAISolutions Tech Pvt Ltd</td>
-    <td>Jul 2025 – Sep 2025</td>
-    <td>Created AI models for medical prediction and sentiment analysis</td>
-  </tr>
-
-</table>
+</div>
 </div>
 <h2 align="center">🏆 Kᴇʏ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
 <table align="center">
