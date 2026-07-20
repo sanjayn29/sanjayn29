@@ -60,7 +60,6 @@ Firebase, Supabase</span></li>
 
 <br>
 <br>
-
 <h2 align="center">💼 Professional Experience</h2>
 
 <div align="center">
@@ -70,12 +69,11 @@ Firebase, Supabase</span></li>
 | **LIGTHS INC** | Software Developer (Mobile) | Developing a **fintech mobile application** with modern UI/UX and scalable architecture | Feb 2026 – Present |
 | **TBI@KEC** | Software Developer | Redesigned the **official website**, built **TBI office automation system**, and developed **portfolio management platform** | Jul 2025 – Feb 2026 |
 | **CubeAISolutions Tech Pvt Ltd** | AI Agentic Intern | Created **AI models for medical prediction and sentiment analysis** | Jul 2025 – Sep 2025 |
-| **Neovate** | Software Developer & ML Engineer (Freelance) | Developed **business websites with SEO optimization**, provided **business technical support**, and designed **branding materials, cards, and social media platforms** | May 2025 – Present |
-| **Outliers United** | Software Developer (Freelance) | Developed **business and e-commerce websites with SEO** | Mar 2025 – Present |
 
 </div>
 </div>
 
+<br>
 <h2 align="center">🏆 Kᴇʏ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs</h2>
 
 <table align="center">
@@ -158,51 +156,59 @@ Firebase, Supabase</span></li>
 
 </table>
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ</h2>
+<br>
+<h2 align="center">📈 GitHub Contributions</h2>
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=000000&color=EED05A&line=D4AF37&point=FFFFFF&area=true&hide_border=true" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=0D1117&color=BFDBFE&line=3B82F6&point=60A5FA&area=true&area_color=2563EB&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
 
-<h2 align="center">📊 Sᴛᴀᴛs</h2>
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h2>💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h2>
-      <img 
-        src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap" 
-        alt="LeetCode Stats" 
-      />
-    </td>
-  </tr>
-</table>
+<br>
+<h2 align="center">💻 LeetCode Stats</h2>
 
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
 
+<br>
 <h2 align="center">🌐 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ : www.sanjayn.me</h2>
+<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20views&color=EED05A&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sanjayn29&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
 </p>
-<p align="center">
-  <a href="mailto:sanjayn29.aiml@gmail.com" target="_blank">
-    <img src="./gmail.png" width="50" height="50" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/_sanjay_n_/" target="_blank">
-    <img src="./instagram.png" width="50" height="50" alt="Instagram" />
-  </a>
-  <a href="https://github.com/sanjayn29" target="_blank">
-    <img src="./github.png" width="50" height="50" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sanjayn29" target="_blank">
-    <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/sanjayn29" target="_blank">
-    <img src="./leetcode.png" width="50" height="50" alt="LeetCode" />
-  </a>
-</p>
+<br>
+<div align="center">
+<a href="https://sanjayn.me">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:sanjayn29.aiml@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sanjayn29">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/sanjayn29">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/sanjayn29">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.instagram.com/_sanjay_n_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EED05A&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:60A5FA&height=65&section=footer"/>
 </p>
-
