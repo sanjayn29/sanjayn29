@@ -157,15 +157,6 @@ Firebase, Supabase</span></li>
 </table>
 
 <br>
-<h2 align="center">📈 GitHub Contributions</h2>
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayn29&bg_color=0D1117&color=BFDBFE&line=3B82F6&point=60A5FA&area=true&area_color=2563EB&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
-<br>
 <h2 align="center">💻 LeetCode Stats</h2>
 
 <p align="center">
