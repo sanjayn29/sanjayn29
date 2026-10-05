@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">🌌 Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Uɴɪᴠᴇʀsᴇ — I’ᴍ Sᴀɴᴊᴀʏ N</h1>
+<h3 align="center">A Fʀᴇᴇʟᴀɴᴄᴇʀ | AI/ML Eɴɢɪɴᴇᴇʀ & Fᴜʟʟ Sᴛᴀᴄᴋ Dᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
-<h3 align="center">A Freelancer | AI/ML Engineer & Full Stack Developer</h3>
-<h4 align="center">Crafting intelligent solutions at the intersection of Artificial Intelligence and elegant software engineering</h4>
+<h4 align="center">Cʀᴀғᴛɪɴɢ ɪɴᴛᴇʟʟɪɢᴇɴᴛ sᴏʟᴜᴛɪᴏɴs ᴀᴛ ᴛʜᴇ ɪɴᴛᴇʀsᴇᴄᴛɪᴏɴ ᴏғ Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴀɴᴅ ᴇʟᴇɢᴀɴᴛ sᴏғᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ</h4>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -60,7 +60,7 @@ Firebase, Supabase</span></li>
 
 <br>
 <br>
-<h2 align="center">💼 Professional Experience</h2>
+<h2 align="center">💼 Pʀᴏғᴇssɪᴏɴᴀʟ Exᴘᴇʀɪᴇɴᴄᴇ</h2>
 
 <div align="center">
 
@@ -155,10 +155,21 @@ Firebase, Supabase</span></li>
   </tr>
 
 </table>
+<br>
+<!-- ================= GITHUB ANALYTICS ================= -->
+<h2 align="center">⚡ Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjayn29&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=sanjayn29&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border=ffffff&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjayn29&theme=github_dark&border_color=ffffff" />
+</p>
 
 <br>
-<h2 align="center">💻 LeetCode Stats</h2>
-
+<h2 align="center">💻 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs</h2>
 <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/sanjayn29?theme=dark&font=source_code_pro&ext=heatmap"
