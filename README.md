@@ -160,7 +160,6 @@ Firebase, Supabase</span></li>
 <h2 align="center">⚡ Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sanjayn29&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" />
   <img width="48%" src="https://streak-stats.demolab.com?user=sanjayn29&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border=ffffff&hide_border=false" />
 </p>
 
